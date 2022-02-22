@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eleena Mathew</h1>
-<h3 align="center">A passionate fullstack developer from India pursuing Bachelor's from MNNIT </h3>
+<h3 align="center">A passionate fullstack developer from India pursuing Bachelor's from MNNIT Allahabad </h3>
 
 - 🔭 I’m currently working on [100dayscodeC](https://github.com/eleensmathew/100dayscodeC)
 
