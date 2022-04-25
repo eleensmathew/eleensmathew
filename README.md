@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on [100dayscodeC](https://github.com/eleensmathew/100dayscodeC)
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 I’m currently learning **C++, DSA**
 
-- 📫 How to reach me **eleensmathew@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
