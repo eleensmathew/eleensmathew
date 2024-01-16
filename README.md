@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eleena Mathew</h1>
 <h3 align="center">A passionate fullstack developer from India pursuing Bachelor's from MNNIT Allahabad </h3>
 
-- 🔭 I’m currently working on [Crime-Detection AI](https://github.com/eleensmathew/eleensmathew.github.io)
-
-- 🌱 I’m currently learning **DSA, Web Development, AI**
+- 🌱 I’m currently learning **DSA, Blockchain, ML**
 
 
 <h3 align="left">Connect with me:</h3>
